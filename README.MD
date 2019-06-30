@@ -1,4 +1,4 @@
-## Worker Boilerplate
+## Automated Task Boilerplate 🤖
 
 Boilerplate para programar microservicios con tareas automatizadas, permite hacer un worker en un par de minutos
 
